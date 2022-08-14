@@ -23,4 +23,4 @@ I'm 15 years old learning C#.I'm a student at SoftUni.
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=denyxvv&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyxvv&show_icons=true&locale=en&layout=compact" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyxvv&show_icons=true&locale=en&layout=compact" />
