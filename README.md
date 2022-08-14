@@ -23,6 +23,6 @@ I'm 15 years old learning C#.I'm a student at SoftUni.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyxvv&show_icons=true&locale=en&layout=compact" alt="denyxvv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyxvv&show_icons=true&locale=en" alt="denyxvv" /></p>
+<p>&nbsp;<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denyxvv&show_icons=true&theme=tokyonight)" alt="denyxvv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denyxvv&" alt="denyxvv" /></p>
